@@ -1,1 +1,2 @@
-Bootstrap website project for NuCamp Coding Bootcamp. Working on it as the weeks go by.
+Bootstrap website project for NuCamp Coding Bootcamp.
+/Users/jesusmoreno/Desktop/projects/react-portfolio/src/assets/nucamp.png
